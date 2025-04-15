@@ -1,1 +1,1 @@
-worker: python perhitunganku.py
+worker: python Perhitunganku.py
